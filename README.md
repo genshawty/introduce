@@ -9,7 +9,7 @@ Made with python requests + selenium + some js for autofill
 ```
 Selenium нужен для ввода 3ds, харвестить капчу я умею, с ловлей виджета оплаты уже начал разбираться.
 
-<img src="supreme demo.gif" width="1000" height="500" />
+<img src="gif/supreme demo.gif" width="1000" height="500" />
 
 ## Adidas Raffle bot
 
@@ -21,7 +21,7 @@ Made with python selenium
 Отсутствует интеграция реквестов, но все необходимые запросы уже отслежены, осталась реализация.
 Работает также и в хедлесс.
 
-<img src="adidas demo.gif" width="1000" height="500" />
+<img src="gif/adidas demo.gif" width="1000" height="500" />
 
 
 ## checkEge bot
