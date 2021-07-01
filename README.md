@@ -48,4 +48,4 @@ python telebot + requests
 http://t.me/adidasStockBot
 (сейчас отключен за ненадобностью, могу включить для демонстрации)
 
-<img src="gif/stock demo.gif" width="1000" height="350" />
+<img src="gif/stock demo.gif" width="1000" height="475" />
