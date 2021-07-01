@@ -35,7 +35,7 @@ http://t.me/egeResultsByDrDreBot
 (сейчас отключен за ненадобностью, могу включить для демонстрации)
 <img src="img/current.png" width="480" height="200" />
 <img src="img/monitor.png" width="480" height="200" />
-<img src="img/results.png" width="1000" height="324" />
+<img src="img/results.png" width="1000" height="280" />
 
 
 ## adidasStock bot
@@ -48,4 +48,4 @@ python telebot + requests
 http://t.me/adidasStockBot
 (сейчас отключен за ненадобностью, могу включить для демонстрации)
 
-<img src="gif/stock demo.gif" width="1000" height="500" />
+<img src="gif/stock demo.gif" width="1000" height="350" />
