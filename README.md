@@ -29,7 +29,23 @@ Made with python selenium
 ```
 python telebot + requests
 ```
-Телеграм от для получения результатов егэ, мониторинга изменений в результатах.
+Телеграм бот для получения результатов егэ, мониторинга изменений в результатах.
 
 http://t.me/egeResultsByDrDreBot
 (сейчас отключен за ненадобностью, могу включить для демонстрации)
+<img src="img/current.png" width="480" height="200" />
+<img src="img/monitor.png" width="480" height="200" />
+<img src="img/results.png" width="1000" height="324" />
+
+
+## adidasStock bot
+
+```
+python telebot + requests
+```
+Телеграм бот, выдающий сток всех сайзов товара по ссылке на него
+
+http://t.me/adidasStockBot
+(сейчас отключен за ненадобностью, могу включить для демонстрации)
+
+<img src="gif/stock demo.gif" width="1000" height="500" />
