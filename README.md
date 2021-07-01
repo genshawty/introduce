@@ -33,9 +33,9 @@ python telebot + requests
 
 http://t.me/egeResultsByDrDreBot
 (сейчас отключен за ненадобностью, могу включить для демонстрации)
-<img src="img/current.png" width="380" height="100" />
-<img src="img/monitor.png" width="380" height="100" />
-<img src="img/results.png" width="800" height="280" />
+<img src="img/current.png" width="410" height="150" />
+<img src="img/monitor.png" width="410" height="150" />
+<img src="img/results.png" width="820" height="280" />
 
 
 ## adidasStock bot
