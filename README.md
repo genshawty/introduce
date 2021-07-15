@@ -20,28 +20,6 @@ Made with nodejs
 
 <img src="img/dns monitor.png" width="1000" height="330" />
 
-## Supreme bot
-
-```
-Made with python requests + selenium + some js for autofill
-```
-Selenium нужен для ввода 3ds, харвестить капчу я умею, с ловлей виджета оплаты уже начал разбираться.
-
-<img src="gif/supreme demo.gif" width="1000" height="500" />
-
-## Adidas Raffle bot
-
-```
-Made with python selenium
-```
-Присутствует создание и редактирование профилей и тасков, есть фарм куки (он приведен в демонстрации).
-
-Отсутствует интеграция реквестов, но все необходимые запросы уже отслежены, осталась реализация.
-Работает также и в хедлесс.
-
-<img src="gif/adidas demo.gif" width="1000" height="500" />
-
-
 ## checkEge bot
 
 ```
@@ -55,6 +33,27 @@ http://t.me/egeResultsByDrDreBot
 <img src="img/monitor.png" width="410" height="150" />
 <img src="img/results.png" width="820" height="280" />
 
+## Supreme bot
+
+```
+Made with python requests + selenium + some js for autofill
+```
+Selenium нужен для ввода 3ds, харвестить капчу я умею, с ловлей виджета оплаты уже начал разбираться.
+
+<img src="gif/supreme demo.gif" width="1000" height="500" />
+
+
+## Adidas Raffle bot
+
+```
+Made with python selenium
+```
+Присутствует создание и редактирование профилей и тасков, есть фарм куки (он приведен в демонстрации).
+
+Отсутствует интеграция реквестов, но все необходимые запросы уже отслежены, осталась реализация.
+Работает также и в хедлесс.
+
+<img src="gif/adidas demo.gif" width="1000" height="500" />
 
 ## adidasStock bot
 
