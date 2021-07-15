@@ -18,7 +18,7 @@ Made with nodejs
 ```
 Монитор, который выкладывает сток товаров в категории с определенными ценовыми ограничениями на сервер, для дальнейшей работы днс бота.
 
-<img src="img/dns monitor.png" width="800" height="500" />
+<img src="img/dns monitor.png" width="1000" height="330" />
 
 ## Supreme bot
 
